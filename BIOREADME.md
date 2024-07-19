@@ -1,5 +1,5 @@
 👋🏿 Hi, I'm Naomi Mondesir
-- 😄 Pronouns: She/Her 
+- 😄 Pronouns: She/Her | 
 Full-Stack Developer | Front-End Developer | QA Tester
 
 Welcome to my GitHub! I specialize in creating user-friendly, accessible web applications with a strong focus on responsive design and usability.
