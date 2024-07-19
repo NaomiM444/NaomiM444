@@ -1,4 +1,4 @@
-👋 Hi, I'm Naomi Mondesir
+👋🏿 Hi, I'm Naomi Mondesir
 - 😄 Pronouns: She/Her 
 Full-Stack Developer | Front-End Developer | QA Tester
 
